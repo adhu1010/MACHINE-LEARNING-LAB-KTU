@@ -1,0 +1,47 @@
+[33mcommit 8c972ba5fbf63134201f11b7df21286391bc4ea8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Oct 7 09:08:29 2024 +0530
+
+    "Updated diabetes.csv with new data, modified file.txt, changed DecisionTreeClassifier parameters in id3diabetes.py, deleted id3final.py and play_tennis.csv files."
+
+[33mcommit 90ca6d71e336b88d18444dfcbf78167d3ef9c57d[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Aug 19 11:56:01 2024 +0530
+
+    lab5complete
+
+[33mcommit 7dfe96285011d32ee67ca24ba624cc0f785562a5[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Aug 19 11:31:47 2024 +0530
+
+    lab6
+
+[33mcommit 9d4c023993ea90f239a6a024f8026411d66d234a[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Aug 19 09:53:46 2024 +0530
+
+    lab 5
+
+[33mcommit edd5f66072ce9f4784d1c49429906f0fe9e0fc00[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Aug 12 09:12:36 2024 +0530
+
+    lab 2
+
+[33mcommit bb9426c34594ec0ff719e8003ddf8a1ca8d763b8[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Aug 5 11:36:57 2024 +0530
+
+    lab
+
+[33mcommit e75a5ddcdb02dea78556893ef9243213c1acfde4[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Aug 5 09:15:41 2024 +0530
+
+    "Modified numpat.py to return pattern count and updated input method. Refactored uni.py to simplify unique row finding using pandas duplicated method. Updated unique.py to print intermediate results."
+
+[33mcommit 43ecbdbf1bfa8719791288ea58fd7f6d8ab2de8a[m
+Author: adhwaith <eahkfsgx@gmail.com>
+Date:   Mon Jul 29 09:32:48 2024 +0530
+
+    first ml lab
